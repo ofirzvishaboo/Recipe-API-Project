@@ -166,3 +166,5 @@ cython_debug/
 .idea/modules.xml
 .gitignore
 .gitignore
+app/.DS_Store
+app/.DS_Store
